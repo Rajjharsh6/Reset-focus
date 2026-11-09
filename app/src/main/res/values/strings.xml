@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Reset Focus</string>
+    <string name="a11y_desc">Reset Focus only detects which app is in front so it can show a pause screen. It does not read screen content, typed text, passwords or messages, and nothing leaves your phone.</string>
+</resources>
